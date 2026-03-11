@@ -5,6 +5,7 @@
 Ma première carrière m'a apporté une **démarche diagnostique** poussée, une **rigueur** analytique, une écoute fine de mes interlocuteurs professionnels et particuliers, que je souhaite désormais mettre au service de projets numériques ⚙️. Les urgences et gardes m'ont appris à être **réactive** face aux imprévus, m'**adapter** rapidement et trouver des solutions concrètes 🧩. J’apprécie l'**autonomie** et la recherche de compromis. 
 
 🔧 Stack : HTML5/CSS3/JS, Java/Spring Boot, PHP/Symfony, SQL, GitHub, Agile
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-663399?style=plastic&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
