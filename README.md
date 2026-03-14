@@ -7,15 +7,29 @@ Ma première carrière m'a apporté une **démarche diagnostique** poussée, une
 
 🔧 Stack : HTML5/CSS3/JS, Java/Spring Boot, PHP/Symfony, SQL, Figma, GitHub, Agile
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-663399?style=plastic&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=plastic&logo=react&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=plastic&logo=bootstrap&logoColor=white)
-![Static Badge](https://img.shields.io/badge/jQuery-%230769AD?style=plastic&logo=jquery&logoColor=white)
+![Static Badge](https://img.shields.io/badge/%20%20-HTML5-%23E34F26?style=flat&logo=html5&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/%20%20-CSS3-%23663399?style=flat&logo=css&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/%20%20-Bootstrap-%23ffffff?style=flat&logo=bootstrap&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/%20%20-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/%20%20-jQuery-%230769AD?style=flat&logo=jquery&logoSize=auto&logoColor=%230769AD&color=%23636363)
+![Static Badge](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=typescript&logoColor=%233178C6&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/-Angular-%23DF27BC?style=flat&logo=angular&logoColor=%23DF27BC&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/%20%20-React-%2361DAFB?style=flat&logo=react&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat&logo=figma&logoColor=%23F24E1E&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=%236DB33F&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/-Thymeleaf-%23005F0F?style=flat&logo=thymeleaf&logoColor=%23005F0F&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=%23777BB4&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/-Symfony-%23ffffff?style=flat&logo=symfony&logoColor=%23ffffff&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/-Doctrine-%23FC6A31?style=flat&logo=doctrine&logoColor=%23FC6A31&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/-npm-%23CB3837?style=flat&logo=npm&logoColor=%23CB3837&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/-Node.js-%235FA04E?style=flat&logo=nodedotjs&logoColor=%235FA04E&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/-Nodemon-%2376D04B?style=flat&logo=nodemon&logoColor=%2376D04B&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/-GitHub-%23ffffff?style=flat&logo=github&logoColor=%23ffffff&logoSize=auto&color=%23636363)
+![Static Badge](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23F05032&logoSize=auto&color=%23636363)
 
 
- 🌱 Projets phares : 
+
+ 🌱 Mes projets : 
  
 * [Memory](https://github.com/MathildeGuedon/memorySaisons) - Jeu de Memory 
  
