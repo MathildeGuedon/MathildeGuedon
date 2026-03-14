@@ -1,4 +1,5 @@
-## Bonjour 👋, Je suis Mathilde Guédon
+![Typing Animation](https://waveify.onrender.com/api/typing/wave?text=Bonjour,+je+suis+Mathilde+Guédon&speed=50&color=%23008080&backgroundColor=transparent&fontSize=60&fontFamily=monospace&width=400&height=150&cursor=true&cursorColor=%23000000&type=wave&prompt=&repeat=true&glowEffect=true&easing=easeIn)
+<!--https://waveipfy.vercel.app/generator/typing-->
 
 ***Développeuse web*** en reconversion après 14 ans de pratique vétérinaire 🩺🐾, je me forme actuellement à l’ENI de Rennes (titre Développeur Web et Web Mobile) pour concevoir des applications utiles et robustes ✮｡💻⭑✩.
 
@@ -19,6 +20,13 @@ Ma première carrière m'a apporté une **démarche diagnostique** poussée, une
  [Memory](https://github.com/MathildeGuedon/memorySaisons) - Jeu de Memory 
  
  [TypeRacer](https://github.com/MathildeGuedon/TypeRacer) - Gestion du temps et des scores 
+
+
+Prev_Herbe - Requêtes API et graphiques - <span style="color: #008080">En construction</span> ![Loading Animation](https://waveify.onrender.com/api/loader?type=dots&color=%23008080&size=50&speed=2&width=100&height=1&theme=modern&backgroundColor=transparent&shadowIntensity=0.7)
+<!--![Loading Animation](https://waveify.onrender.com/api/loader?type=building&color=%2300ffff&size=1&speed=1&width=30&height=1&backgroundColor=transparent&glowEffect=true&theme=modern&shadowIntensity=0.5&easing=easeInOut)--> 
+<!-- https://waveipfy.vercel.app/generator/loader -->
+
+
 
 
  🔗 Linkedin : www.linkedin.com/in/mathilde-guédon-a08a08369
