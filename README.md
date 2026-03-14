@@ -13,11 +13,16 @@ Ma première carrière m'a apporté une **démarche diagnostique** poussée, une
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=plastic&logo=bootstrap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/jQuery-%230769AD?style=plastic&logo=jquery&logoColor=white)
 
+
  🌱 Projets phares : 
+ 
  [Memory](https://github.com/MathildeGuedon/memorySaisons) - Jeu de Memory 
+ 
  [TypeRacer](https://github.com/MathildeGuedon/TypeRacer) - Gestion du temps et des scores 
 
+
  🔗 Linkedin : www.linkedin.com/in/mathilde-guédon-a08a08369
+ 
 
 👉 **Recherche alternance CDA en Bretagne à partir de septembre 2026** (Concepteur d'Application Web)
 <!--
