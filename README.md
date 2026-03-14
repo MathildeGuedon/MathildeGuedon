@@ -17,12 +17,12 @@ Ma première carrière m'a apporté une **démarche diagnostique** poussée, une
 
  🌱 Projets phares : 
  
- [Memory](https://github.com/MathildeGuedon/memorySaisons) - Jeu de Memory 
+* [Memory](https://github.com/MathildeGuedon/memorySaisons) - Jeu de Memory 
  
- [TypeRacer](https://github.com/MathildeGuedon/TypeRacer) - Gestion du temps et des scores 
+* [TypeRacer](https://github.com/MathildeGuedon/TypeRacer) - Gestion du temps et des scores 
 
 
-Prev_Herbe - Requêtes API et graphiques - <span style="color: #008080">En construction</span> ![Loading Animation](https://waveify.onrender.com/api/loader?type=dots&color=%23008080&size=50&speed=2&width=100&height=1&theme=modern&backgroundColor=transparent&shadowIntensity=0.7)
+* Prev_Herbe - Requêtes API et graphiques - ⚒️ $${\color{teal}En \space construction}$$ ![Loading Animation](https://waveify.onrender.com/api/loader?type=dots&color=%23008080&size=50&speed=2&width=100&height=1&theme=modern&backgroundColor=transparent&shadowIntensity=0.7)
 <!--![Loading Animation](https://waveify.onrender.com/api/loader?type=building&color=%2300ffff&size=1&speed=1&width=30&height=1&backgroundColor=transparent&glowEffect=true&theme=modern&shadowIntensity=0.5&easing=easeInOut)--> 
 <!-- https://waveipfy.vercel.app/generator/loader -->
 
