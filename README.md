@@ -1,4 +1,7 @@
-![Typing Animation](https://waveify.onrender.com/api/typing/wave?text=Bonjour,+je+suis+Mathilde+Guédon&speed=50&color=%23008080&backgroundColor=transparent&fontSize=60&fontFamily=monospace&width=400&height=150&cursor=true&cursorColor=%23000000&type=wave&prompt=&repeat=true&glowEffect=true&easing=easeIn)
+[![SVG Animation](https://readme-svg-typing-generator.vercel.app/api?lines=Hello%2C%20GitHub!;Bienvenue%20sur%20mon%20profil&animation=blur&color=008080&background=00000000&size=60&font=sans&duration=5000&pause=1000&width=800&height=100&letterSpacing=normal&center=true&vCenter=false&multiline=false&repeat=true&random=false)](https://github.com/OstinUA)
+<!--https://readme-svg-typing-generator.vercel.app/-->
+
+<!--![Typing Animation](https://waveify.onrender.com/api/typing/wave?text=Bonjour,+je+suis+Mathilde+Guédon&speed=50&color=%23008080&backgroundColor=transparent&fontSize=60&fontFamily=monospace&width=400&height=150&cursor=true&cursorColor=%23000000&type=wave&prompt=&repeat=true&glowEffect=true&easing=easeIn)-->
 <!--https://waveipfy.vercel.app/generator/typing-->
 
 ***Développeuse web*** en reconversion après 14 ans de pratique vétérinaire 🩺🐾, je me forme actuellement à l’ENI de Rennes (titre Développeur Web et Web Mobile) pour concevoir des applications utiles et robustes ✮｡💻⭑✩.
