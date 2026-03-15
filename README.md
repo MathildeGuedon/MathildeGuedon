@@ -13,7 +13,7 @@ Ma première carrière m'a apporté une **$${\color{teal}démarche \space diagno
 
 ---
 
-![Typing Animation](https://waveify.onrender.com/api/typing/wave?text=Stack%3A+HTML5%2FCSS3%2FJS%2C+Java%2FSpring+Boot%2C+PHP%2FSymfony%2C+SQL%2C+Figma%2C+GitHub%2C+Agile&speed=50&color=%23ffffff&backgroundColor=transparent&fontSize=16&fontFamily=monospace&width=400&height=15&cursor=true&cursorColor=%23000000&type=wave&prompt=)
+[![Typing Animation](https://waveify.onrender.com/api/typing/wave?text=Stack%3A+HTML5%2FCSS3%2FJS%2C+Java%2FSpring+Boot%2C+PHP%2FSymfony%2C+SQL%2C+Figma%2C+GitHub%2C+Agile&speed=50&color=%23ffffff&backgroundColor=transparent&fontSize=16&fontFamily=monospace&width=400&height=15&cursor=true&cursorColor=%23000000&type=wave&prompt=)
 
 
 ![Static Badge](https://img.shields.io/badge/%20%20-HTML5-%23E34F26?style=flat&logo=html5&logoSize=auto&color=%23636363)
