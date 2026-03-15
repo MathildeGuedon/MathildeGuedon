@@ -1,13 +1,15 @@
-[![SVG Animation](https://readme-svg-typing-generator.vercel.app/api?lines=Hello%2C%20GitHub!;Bienvenue%20sur%20mon%20profil&animation=blur&color=008080&background=00000000&size=60&font=sans&duration=5000&pause=1000&width=800&height=100&letterSpacing=normal&center=false&vCenter=false&multiline=false&repeat=true&random=false)](https://github.com/OstinUA)
-<!--https://readme-svg-typing-generator.vercel.app/-->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=008080&text=Hello%20✨&fontColor=ffffff&animation=fadeIn&rotate=0&textBg=false&desc=Bienvenue%20sur%20mon%20GitHub&descAlign=50&fontAlignY=40"/></p>
+
+<!--[![SVG Animation](https://readme-svg-typing-generator.vercel.app/api?lines=Hello%2C%20GitHub!;Bienvenue%20sur%20mon%20profil&animation=blur&color=008080&background=00000000&size=60&font=sans&duration=5000&pause=1000&width=800&height=100&letterSpacing=normal&center=false&vCenter=false&multiline=false&repeat=true&random=false)](https://github.com/OstinUA)-->
+
 
 <!--![Typing Animation](https://waveify.onrender.com/api/typing/wave?text=Bonjour,+je+suis+Mathilde+Guédon&speed=50&color=%23008080&backgroundColor=transparent&fontSize=60&fontFamily=monospace&width=400&height=150&cursor=true&cursorColor=%23000000&type=wave&prompt=&repeat=true&glowEffect=true&easing=easeIn)-->
 <!--https://waveipfy.vercel.app/generator/typing-->
 ---
 
-***Développeuse web*** en reconversion après 14 ans de pratique vétérinaire 🩺🐾, je me forme actuellement à l’ENI de Rennes (titre Développeur Web et Web Mobile) pour concevoir des applications utiles et robustes ✮｡💻⭑✩.
+**$${\color{teal}Développeuse \space web}$$** en reconversion après 14 ans de pratique vétérinaire 🩺🐾, je me forme actuellement à l’ENI de Rennes (titre Développeur Web et Web Mobile) pour concevoir des applications utiles et robustes ✮｡💻⭑✩.
 
-Ma première carrière m'a apporté une **démarche diagnostique** poussée, une **rigueur** analytique, une écoute fine de mes interlocuteurs professionnels et particuliers, que je souhaite désormais mettre au service de projets numériques. Les urgences et gardes m'ont appris à être **réactive** face aux imprévus, m'**adapter** rapidement et trouver des solutions concrètes. J’apprécie l'**autonomie** et la recherche de compromis. 
+Ma première carrière m'a apporté une **$${\color{teal}démarche \space diagnostique}$$** poussée, une **$${\color{teal}rigueur}$$** analytique, une écoute fine de mes interlocuteurs professionnels et particuliers, que je souhaite désormais mettre au service de projets numériques. Les urgences et gardes m'ont appris à être **$${\color{teal}réactive}$$** face aux imprévus, m'**$${\color{teal}adapter}$$** rapidement et trouver des solutions concrètes. J’apprécie l'**$${\color{teal}autonomie}$$** et la recherche de compromis. 
 
 ---
 
@@ -42,7 +44,7 @@ Ma première carrière m'a apporté une **démarche diagnostique** poussée, une
 * [TypeRacer](https://github.com/MathildeGuedon/TypeRacer) - Gestion du temps et des scores 
 
 
-* Prev_Herbe - Requêtes API et graphiques - ⚒️ $${\color{teal}En \space construction}$$ ![Loading Animation](https://waveify.onrender.com/api/loader?type=dots&color=%23008080&size=50&speed=2&width=100&height=1&theme=modern&backgroundColor=transparent&shadowIntensity=0.7)
+* Prev_Herbe - Requêtes API et graphiques - ⚒️ *En construction* ![Loading Animation](https://waveify.onrender.com/api/loader?type=dots&color=%23008080&size=50&speed=2&width=100&height=1&theme=modern&backgroundColor=transparent&shadowIntensity=0.7)
 <!--![Loading Animation](https://waveify.onrender.com/api/loader?type=building&color=%2300ffff&size=1&speed=1&width=30&height=1&backgroundColor=transparent&glowEffect=true&theme=modern&shadowIntensity=0.5&easing=easeInOut)--> 
 <!-- https://waveipfy.vercel.app/generator/loader -->
 
@@ -52,6 +54,7 @@ Ma première carrière m'a apporté une **démarche diagnostique** poussée, une
  
 
 👉 **Recherche alternance CDA en Bretagne à partir de septembre 2026** (Concepteur d'Application Web)
+
 <!--
 **MathildeGuedon/MathildeGuedon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
