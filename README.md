@@ -7,7 +7,7 @@
 <!--https://waveipfy.vercel.app/generator/typing-->
 ---
 
-**$${\color{teal}Développeuse \space web}$$** en reconversion après 14 ans de pratique vétérinaire 🩺🐾, je me forme actuellement à l’ENI de Rennes (titre Développeur Web et Web Mobile) pour concevoir des applications utiles et robustes ✮｡💻⭑✩.
+**$${\color{teal}Développeuse \space web}$$** en reconversion après 14 ans de pratique vétérinaire 🩺🐾, je me forme actuellement à l’ENI de Rennes (titre Développeur Web et Web Mobile en poche, en route vers le titre Concepteur Développeur d'Applications) pour concevoir des applications utiles et robustes ✮｡💻⭑✩.
 
 Ma première carrière m'a apporté une **$${\color{teal}démarche \space diagnostique}$$** poussée, une **$${\color{teal}rigueur}$$** analytique, une écoute fine de mes interlocuteurs professionnels et particuliers, que je souhaite désormais mettre au service de projets numériques. Les urgences et gardes m'ont appris à être **$${\color{teal}réactive}$$** face aux imprévus, m'**$${\color{teal}adapter}$$** rapidement et trouver des solutions concrètes. J’apprécie l'**$${\color{teal}autonomie}$$** et la recherche de compromis. 
 
@@ -52,8 +52,9 @@ Ma première carrière m'a apporté une **$${\color{teal}démarche \space diagno
 
  🔗 Linkedin : www.linkedin.com/in/mathilde-guédon-a08a08369
  
-
+<!--
 👉 **Recherche alternance CDA en Bretagne à partir de septembre 2026** (Concepteur d'Application Web)
+-->
 
 <!--
 **MathildeGuedon/MathildeGuedon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
